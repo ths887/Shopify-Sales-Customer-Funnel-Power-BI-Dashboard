@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard that analyzes **Shopify sales and customer behavior**, focusing on the end-to-end **sales funnel**, **retention**, and **regional performance**.
 
-![Shopify Power BI Dashboard]()
+![Shopify Power BI Dashboard](https://github.com/ths887/Shopify-Sales-Customer-Funnel-Power-BI-Dashboard/blob/main/SHOPIFY_PROJECT.png)
 
 
 ---
